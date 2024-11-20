@@ -27,7 +27,7 @@ a {
 }
 
 a:hover {
-  color: #3498DB;
+  color: #3498db;
   text-decoration: none;
 }
 
@@ -780,7 +780,7 @@ section .container {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #1c7d32;
+  background: #3498db;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -880,7 +880,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #63eda3;
+  color: #3498db;
 }
 
 .portfolio .portfolio-wrap:hover::before {
